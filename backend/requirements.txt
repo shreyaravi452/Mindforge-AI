@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+websockets==13.1
+anthropic==0.79.0
+httpx==0.28.1
+elevenlabs==1.10.0
+python-dotenv==1.0.1
+pydantic==2.10.0
+tavily-python==0.5.0
+python-multipart==0.0.18
